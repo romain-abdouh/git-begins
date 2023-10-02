@@ -1,0 +1,9 @@
+Pour cloner un repositery git il faut :
+- copier le lien html du repositery 
+- lancer le terminal et faire la commande " git clone 'le_lien_html' " 
+Le clone est créer là ou l'on se trouve dans le terminal.
+
+Pour ensuite faire le push il faut : 
+- git add .        ( ajoute tout les fichier present du dossier ) 
+- git commit -m"la_description"
+- git push 
