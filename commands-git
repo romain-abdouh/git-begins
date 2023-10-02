@@ -8,3 +8,8 @@ Pour ensuite faire le push il faut :
 - git commit -m"la_description"
 - git push 
 git push sert à envoyer les données local de la machine sur github
+
+Pour ensuite faire le pull il faut : 
+- modifier un fichier du repositery 
+- git push 
+git push sert à télécharger les données des commits qui n'ont pas encore été récupérées dans votre branche locale
