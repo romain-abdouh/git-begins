@@ -10,4 +10,6 @@ Pour ensuite faire le push il faut :
 git push sert à envoyer les données local de la machine sur github
 
 Pour faire un pull il faut :
-- git pull 
+- modifier un ficher sur le repositery github
+- retourner dans le terminal et tapper la command " git pull " 
+git pull sert à mettre à jour les données de github sur la machine
