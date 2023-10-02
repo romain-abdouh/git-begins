@@ -11,5 +11,17 @@ git push sert à envoyer les données local de la machine sur github
 
 Pour ensuite faire le pull il faut : 
 - modifier un fichier du repositery 
-- git push 
+- git pull 
 git push sert à télécharger les données des commits qui n'ont pas encore été récupérées dans votre branche locale
+
+Pour réaliser une nouvelle branche on utilise la commande :
+- git branch "nom_de_la_nouvelle_branch"
+
+Pour se déplacer de branch on utilisa la commande :
+- git checkout "nom_de_la_branch"
+
+Pour revenir à la branch principal on utilise la commande : 
+- git checkout main 
+
+ASTUCE pour créer une branch et swithc directement dessus on utilise la commande : 
+- git checkout -b "nom_de_la_nouvelle_branch"
